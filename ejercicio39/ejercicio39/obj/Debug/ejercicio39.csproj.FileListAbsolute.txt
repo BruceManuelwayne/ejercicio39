@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio39\ejercicio39\ejercicio39\bin\Debug\ejercicio39.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio39\ejercicio39\ejercicio39\bin\Debug\ejercicio39.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio39\ejercicio39\ejercicio39\bin\Debug\ejercicio39.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio39\ejercicio39\ejercicio39\obj\Debug\ejercicio39.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio39\ejercicio39\ejercicio39\obj\Debug\ejercicio39.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio39\ejercicio39\ejercicio39\obj\Debug\ejercicio39.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio39\ejercicio39\ejercicio39\obj\Debug\ejercicio39.pdb
